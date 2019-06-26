@@ -9,6 +9,8 @@ Pairwise Multi-Layer Nets (PMLN) for Learning Distributed Representation of Mult
  ```shell
 sudo pip install keras, tensorflow
  ```
+Note: The code was wrote in 2016, which means it requires (very old version) TensorFlow==0.10.0 and Keras==1.0.0.
+
 2. Preprae data according to the instructions in data folder.
 
 ## Runing Experiments
